@@ -102,3 +102,5 @@ vless://376b9861-2fc6-4647-959c-18185cd9c95a@188.114.99.11:443?encryption=none&s
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@188.114.99.11:443?encryption=none&security=tls&sni=lmn1713212141001.lmn15466.info&type=ws&host=lmn1713212141001.lmn15466.info&path=/srvacc1#vip-server
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@188.114.99.11:443?encryption=none&security=tls&sni=lmn1713289042738.lmn15436.info&type=ws&host=lmn1713289042738.lmn15436.info&path=/srv1ws#vip-server
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@188.114.99.11:443?encryption=none&security=tls&sni=lmn1713269586250.lmn15432.info&type=ws&host=lmn1713269586250.lmn15432.info&path=/mary#vip-server
+vless://7a5b0ddd-82d4-4461-ab95-0e97690787a9@188.114.96.6:443?encryption=none&security=tls&sni=conf-11111116.milovpn.com&alpn=http%2F1.1&fp=chrome&type=ws&host=conf-11111116.milovpn.com&path=%2Fmogmrews#OVH-Default-1535
+vless://376b9861-2fc6-4647-959c-18185cd9c95a@tiffany.ns.cloudflare.com:443?encryption=none&security=tls&sni=lmn1713459073685.lmn15479.info&alpn=http%2F1.1&fp=randomized&type=ws&host=lmn1713459073685.lmn15479.info&path=%2Fnyc-7#CLOUDVUR-Default-15-6-usa
